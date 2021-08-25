@@ -1,0 +1,18 @@
+h1 {
+    color:rgb(26, 23, 25);
+}
+
+p {
+font-family: 'Courier New', Courier, monospace;
+font-size: 25px;
+text-decoration: underline;
+color: tomato;
+
+}
+h4 {
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 15px;
+text-decoration: underline;
+color: rgb(66, 30, 24);
+
+}
